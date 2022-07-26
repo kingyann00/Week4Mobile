@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week4Mobile</string>
+    <string name="boxOneTxt">Box One</string>
+    <string name="boxTwoTxt">Box Two</string>
+    <string name="boxThreeTxt">Box Three</string>
+    <string name="boxFourTxt">Box Four</string>
+    <string name="boxFiveTxt">Box Five</string>
+
+</resources>
