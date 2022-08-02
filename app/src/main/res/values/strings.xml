@@ -5,5 +5,10 @@
     <string name="boxThreeTxt">Box Three</string>
     <string name="boxFourTxt">Box Four</string>
     <string name="boxFiveTxt">Box Five</string>
+    <string name="howToPlayTxt">How to Play</string>
+    <string name="ruleTxt">Tap button and Screen</string>
+    <string name="redButton">RED</string>
+    <string name="yellowButton">YELLOW</string>
+    <string name="greenButton">GREEN</string>
 
 </resources>
